@@ -7,3 +7,9 @@ A quiz game that can be played in a brower. Currently, there are a total of 10 q
 Access the game here 👉: [Quizzoid Game](https://maryletteroa.github.io/quizzoid-game)
 
 Questions were fetched from the [Open Trivia Database](https://opentdb.com).
+
+## TO DOs:
+- [ ] Add category
+- [ ] Add level
+- [ ] Add total number of questions
+- [ ] Add title
