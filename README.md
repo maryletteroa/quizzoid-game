@@ -2,7 +2,7 @@
 
 ⚠ Improvements on the way ⚠  
 
-A quiz game that can be played in a browers. There are a total of 10 questions.
+A quiz game that can be played in a browers. Currently, there are a total of 10 questions.
 
 Access the game here 👉: [Quizzoid Game](https://maryletteroa.github.io/quizzoid-game)
 
